@@ -46,4 +46,4 @@
     ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/9_%EA%B2%8C%EC%9E%84%EA%B2%B0%EA%B3%BC%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8B%9C%EA%B0%84%20%ED%85%8C%EC%9D%B4%EB%B8%94.png)
     - 게임 결과 -> 게임 스코어 테이블
     ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/9_%EA%B2%8C%EC%9E%84%20%EA%B2%B0%EA%B3%BC%20%EC%8A%A4%EC%BD%94%EC%96%B4%20%ED%85%8C%EC%9D%B4%EB%B8%94.png) 
-   
+10. 유저별 종합 승률 및 최대연승
