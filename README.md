@@ -6,19 +6,19 @@
 ## 👯‍♂️팀원<br/> 
 🤠 박세종 🦁 박성준 🐸 신유정 🐹 정세한 🐼 권도훈<br/><br/>
 
-## 🎈Entity Relationship Diagram (ER Diagram)
-![ERD_test drawio](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/d36beb33-1bef-460a-bc66-535f0b4e2f6a)
-<br/><br/>
-## 🎈Entity Relationship Diagram (ERD)
-[Entity Relationship Diagram (ERD)](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/001-%EC%B5%9C%EC%A2%85%20ERD%20%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg)
-<br/><br/>
-
 ## 🎈프로젝트 개요
 [프로젝트 개요](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/PDF%20file/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94.pdf)
 <br/><br/>
 
 ## 🎈프로젝트 요구사항 정의서
 [프로젝트 요구사항 정의서](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/PDF%20file/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
+<br/><br/>
+
+## 🎈Entity Relationship Diagram (ER Diagram)
+![ERD_test drawio](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/d36beb33-1bef-460a-bc66-535f0b4e2f6a)
+<br/><br/>
+## 🎈Entity Relationship Diagram (ERD)
+[Entity Relationship Diagram (ERD)](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/001-%EC%B5%9C%EC%A2%85%20ERD%20%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg)
 <br/><br/>
 
 ## 🎈프로젝트 시연
