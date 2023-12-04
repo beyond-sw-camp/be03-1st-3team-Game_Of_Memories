@@ -19,9 +19,17 @@
 ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/1_%EC%9C%A0%EC%A0%801%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.gif)
 2. 유저1 루찌 아이템 구매 및 에러
 ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/2_%EB%A3%A8%EC%B0%8C%20%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B5%AC%EB%A7%A4%20%EB%B0%8F%20%EC%97%90%EB%9F%AC.gif) 
-3. 유저1 회원 갱신
-![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/2_%EB%A3%A8%EC%B0%8C%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B5%AC%EB%A7%A4%20%ED%9A%8C%EC%9B%90%20%EA%B0%B1%EC%8B%A0.png)
-4. 유저2 회원가입
+   - 유저1 회원 갱신
+    ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/2_%EB%A3%A8%EC%B0%8C%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B5%AC%EB%A7%A4%20%ED%9A%8C%EC%9B%90%20%EA%B0%B1%EC%8B%A0.png)
+3. 유저2 회원가입
 ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/3_%EC%9C%A0%EC%A0%802%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%201.gif)
-5. 유저 회원가입 결과
-![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/3_%EC%9C%A0%EC%A0%802%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%202.png)
+   - 유저 회원가입 결과
+    ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/3_%EC%9C%A0%EC%A0%802%20%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%202.png)
+4. 유저2 캐시충전
+![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/4_%EC%9C%A0%EC%A0%802%20%EC%BA%90%EC%8B%9C%EC%B6%A9%EC%A0%84%20%EA%B0%B1%EC%8B%A0.png)
+    - 유저2 캐시충전 갱신
+        ![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/4_%EC%9C%A0%EC%A0%802%20%EC%BA%90%EC%8B%9C%EC%B6%A9%EC%A0%84.gif)
+5. 유저2 캐시아이템 구매 및 에러
+![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/5_%EC%9C%A0%EC%A0%802%20%EC%BA%90%EC%8B%9C%EC%95%84%EC%9D%B4%ED%85%9C%20%EA%B5%AC%EB%A7%A4%20%EB%B0%8F%20%EC%97%90%EB%9F%AC.gif)
+6. 유저3 가입
+![image](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4/6_%EC%9C%A0%EC%A0%803%20%EA%B0%80%EC%9E%85.gif)
