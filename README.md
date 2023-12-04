@@ -6,10 +6,10 @@
 ## 👯‍♂️팀원<br/> 
 🤠 박세종 🦁 박성준 🐸 신유정 🐹 정세한 🐼 권도훈<br/><br/>
 
-## Entity Relationship Diagram (ER Diagram)
+## 🎈Entity Relationship Diagram (ER Diagram)
 ![ERD_test drawio](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/assets/57553339/d36beb33-1bef-460a-bc66-535f0b4e2f6a)
 <br/><br/>
-## Entity Relationship Diagram (ERD)
+## 🎈Entity Relationship Diagram (ERD)
 [Entity Relationship Diagram (ERD)](https://github.com/lifedesigner88/be03-1st-3team-Crazy_Arcade_Game/blob/main/image/001-%EC%B5%9C%EC%A2%85%20ERD%20%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg)
 <br/><br/>
 
