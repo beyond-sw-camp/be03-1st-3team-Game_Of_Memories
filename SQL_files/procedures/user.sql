@@ -208,6 +208,7 @@ END //
 DELIMITER ;
 call gamedb_team.유저승률조회(1);
 
+-- 승률에 연승까지
 WITH WinStreaks AS (
     SELECT
         user_id,
@@ -233,7 +234,6 @@ WITH WinStreaks AS (
         user_id
 )
 
--- 미완 승률에 연승까지
 SELECT
     u.id,
     u.nickname,
